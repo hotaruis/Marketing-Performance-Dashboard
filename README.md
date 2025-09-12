@@ -19,9 +19,8 @@ The dashboard includes:
 - Filters for campaign name and date.
 
 ## Screenshots
-```markdown
    ![Dashboard Screenshot](Dashboard.PNG)
 
- ## Tools & Technologies
+## Tools & Technologies
 - SQL (PostgreSQL)
 - Google Looker Studio
