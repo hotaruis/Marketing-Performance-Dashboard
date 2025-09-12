@@ -20,7 +20,7 @@ The dashboard includes:
 
 ## Screenshots
 ```markdown
-   ![Dashboard Screenshot](dashboard.png)
+   ![Dashboard Screenshot](Dashboard.PNG)
 
  ## Tools & Technologies
 - SQL (PostgreSQL)
