@@ -20,6 +20,7 @@ The dashboard includes:
 
 ## Screenshots
    ![Dashboard Screenshot](Dashboard.PNG)
+   ![SQL code Screenshot](SQL_P1.PNG)
 
 ## Tools & Technologies
 - SQL (PostgreSQL)
